@@ -1,0 +1,43 @@
+// conditional statements
+//     if 
+//     if else 
+//     nested if else
+//     if else ladder
+// switch 
+// goto
+// loop
+//     for 
+//     nested for 
+//     while 
+//     do while
+// function
+//     function types
+//     recursio
+// array 
+//     2D array 
+// pointer
+//     CBVCBR
+//     file handling
+// --------------------OOP---------------------
+// class 
+// object
+//     constructor
+//     distructor
+// inheritance
+//     single
+//     multiple
+//     multilevel
+//     hierarchical
+//     hybrid
+// polymorphism
+//     function overloading
+//     function overriding
+// abstraction
+// encapculation
+// error handling
+// friend function
+
+    
+    
+// int a = 10;
+// string a[12] = "aadesh";
