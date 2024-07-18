@@ -30,18 +30,18 @@
 
 // c++
 
-#include<iostream>
-// using namespace std;
+// #include<iostream>
+// // using namespace std;
 
-int main()
-{
-    // int a;
-    // std :: cout << "Enter a number = ";
-    // std :: cin >> a;
+// int main()
+// {
+//     // int a;
+//     // std :: cout << "Enter a number = ";
+//     // std :: cin >> a;
 
-    std :: cout << "adesh " << 90 << std :: endl;
-    std :: cout << "adesh " << 90 << "\n";
+//     std :: cout << "adesh " << 90 << std :: endl;
+//     std :: cout << "adesh " << 90 << "\n";
     
-    return 0;
-}
+//     return 0;
+// }
 
