@@ -70,3 +70,34 @@
 
 // ==========================================
 
+// =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+
+// #include<iostream>
+// using namespace std;
+
+// class Art
+// {
+//     public:
+//         void Rangoli()
+//         {
+//             cout<< "Rangoli"<<endl;
+//         }
+// };
+
+// class Sktech : public Art
+// {
+//     public:
+//         void Draw()
+//         {
+//             cout<< "drawing"<<endl;
+//         }
+// };
+
+// int main()
+// {
+//     Sktech obj;
+//     obj.Draw();
+//     obj.Rangoli();
+//     return 0;
+// }
