@@ -47,43 +47,43 @@
 
 // ====================================
 
-#include<iostream>
-using namespace std;
-class Student
-{
-    private:
-        int ID;
-    public:
-        int age;
-        int marks;
-        void getData(int a,int b, int c)
-        {
-            ID = a;
-            age = b;
-            marks = c;
-        }
+// #include<iostream>
+// using namespace std;
+// class Student
+// {
+//     private:
+//         int ID;
+//     public:
+//         int age;
+//         int marks;
+//         void getData(int a,int b, int c)
+//         {
+//             ID = a;
+//             age = b;
+//             marks = c;
+//         }
 
-        void printData()
-        {
-            cout<< ID << endl;
-            cout<< age << endl;
-            cout<< marks << endl;
-        }
-};
+//         void printData()
+//         {
+//             cout<< ID << endl;
+//             cout<< age << endl;
+//             cout<< marks << endl;
+//         }
+// };
 
 
-int main()
-{
-    Student rohit;
+// int main()
+// {
+//     Student rohit;
     // rohit.age = 60;
     // rohit.marks = 12;
     // rohit.getData(1002);
-    rohit.getData(101, 21, 150);
+    // rohit.getData(101, 21, 150);
     // Student rutuja;
     // rutuja.getData(1003);
     // rutuja.age = 20;
     // rutuja.marks = 120;
 
-    rohit.printData();
-    return 0;
-}
+//     rohit.printData();
+//     return 0;
+// }
