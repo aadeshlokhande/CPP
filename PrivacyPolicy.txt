@@ -1,0 +1,9 @@
+Privacy Policy
+
+This Chrome extension does not collect, store, transmit, or share any personal or sensitive user data.
+
+The extension only accesses the currently active webpage to extract URLs based on user-provided XPath input. All processing happens locally in the user's browser. No data is sent to external servers.
+
+We do not collect browsing history, personal information, authentication data, or user activity.
+
+If you have any questions, you may contact the developer.
