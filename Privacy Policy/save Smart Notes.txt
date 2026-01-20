@@ -1,0 +1,74 @@
+Privacy Policy
+
+Smart Notes & Knowledge Manager
+
+Smart Notes & Knowledge Manager respects your privacy and is designed to protect user data. This Privacy Policy explains what data is handled, how it is used, and how your information is protected.
+
+1. Information We Collect
+Smart Notes & Knowledge Manager does not collect personal or sensitive user data.
+The only information handled by the extension is:
+	- Text content that the user explicitly selects and chooses to save as a note
+	- User-created notes and categories
+	- Basic metadata related to saved notes, such as:
+		- Source website URL
+		- Note creation date
+This data is created solely through direct user interaction and is necessary for the extension’s core functionality.
+
+2. Information We Do Not Collect
+The extension does not collect, store, or process:
+	- Personally identifiable information (name, email address, phone number, age, address)
+	- Authentication information (passwords, credentials, PINs)
+	- Financial or payment information
+	- Health-related information
+	- Personal communications (emails, messages, chats)
+	- Location data (IP address, GPS, region)
+	- Browsing history or background website activity
+	- User behavior tracking (clicks, keystrokes, mouse movements)
+
+3. How Information Is Used
+The limited data handled by the extension is used only to:
+	- Save user-selected text as notes
+	- Organize notes using categories
+	- Display, edit, and delete notes within the dashboard
+	- Help users manage their personal knowledge efficiently
+Data is never used for advertising, analytics, profiling, or tracking.
+
+4. Data Storage and Security
+All data is stored locally in the user’s browser using Chrome’s storage API.
+	- No data is transmitted to external servers
+	- No cloud storage or remote databases are used
+	- The extension functions offline after installation
+Users have full control over their data and can delete notes or remove the extension at any time, which permanently removes stored data from the browser.
+
+5. Data Sharing and Third Parties
+Smart Notes & Knowledge Manager does not:
+	- Sell user data
+	- Share user data with third parties
+	- Transfer user data outside the browser
+	- Integrate third-party analytics or tracking tools
+There are no external services involved in data processing.
+
+6. Permissions Justification
+The extension requests limited permissions only to support its single purpose:
+	- Storage: To store user-created notes locally
+	- Context Menus: To allow saving selected text via right-click
+	- Active Tab & Scripting: To access selected text only when the user initiates a save action
+	- Host Permissions: To run on webpages where the user chooses to save content
+These permissions are not used for any unrelated or background activities.
+
+7. User Control and Data Deletion
+Users have full control over their data:
+	- Notes and categories can be edited or deleted at any time
+	- Removing the extension deletes all locally stored data
+	- No backups or copies of user data are retained
+
+8. Children’s Privacy
+Smart Notes & Knowledge Manager does not target children and does not knowingly collect any data from children under the age of 13.
+
+9. Changes to This Privacy Policy
+This Privacy Policy may be updated if the extension’s functionality changes. Any updates will be reflected in the Chrome Web Store listing or associated documentation.
+
+10. Contact Information
+If you have questions or concerns about this Privacy Policy or the extension’s data practices, you may contact the developer through the Chrome Web Store support channel.
+
+By using Smart Notes & Knowledge Manager, you agree to this Privacy Policy.
